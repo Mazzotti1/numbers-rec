@@ -28,6 +28,7 @@ Este script:
 - Mostra uma imagem de teste e imprime:
 - O rótulo real (número correto)
 - O número previsto pelo modelo
+- Você pode escolher qual imagem testar modificando a variável index no código reconhcer_digito.py.
  
   ---
 
@@ -37,10 +38,18 @@ Este script:
 
 - Python 3.7+
 - TensorFlow
+- NumPy
 - Matplotlib (para visualizar a imagem)
 
 ### 📦 Instalar dependências
 
 ```bash
-pip install tensorflow matplotlib
+pip install tensorflow numpy matplotlib
+
+## Fontes
+
+- https://github.com/ProfessorFilipo/PythonAI/tree/main/DeepLearning
+- https://www.w3schools.com/python/matplotlib_intro.asp
+- https://www.tensorflow.org/tutorials/keras/classification?hl=pt-br
+
 
