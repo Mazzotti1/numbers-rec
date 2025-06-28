@@ -42,5 +42,5 @@ Este script:
 ### 📦 Instalar dependências
 
 ```bash
-pip install tensorflow numpy matplotlib
+pip install tensorflow matplotlib
 
