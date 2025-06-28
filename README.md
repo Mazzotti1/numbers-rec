@@ -7,9 +7,9 @@ Projeto desenvolvido para a disciplina de Inteligência Artificial com foco em *
 - Isabella Mindof
 
 ## 📁 Estrutura do Projeto
-├── treinar_modelo.py # Script para treinar o modelo
-├── reconhecer_digito.py # Script para testar o reconhecimento
-├── modelo_digitos.h5 # Modelo treinado pronto para uso
+- ├── treinar_modelo.py # Script para treinar o modelo
+- ├── reconhecer_digito.py # Script para testar o reconhecimento
+- ├── modelo_digitos.h5 # Modelo treinado pronto para uso
 
 ## 🧠 Funcionamento do Código
 
