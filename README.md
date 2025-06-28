@@ -2,16 +2,16 @@
 
 Projeto desenvolvido para a disciplina de Inteligência Artificial com foco em **Deep Learning**, utilizando **Keras** e a base de dados **MNIST** para realizar o reconhecimento de dígitos numéricos manuscritos (0 a 9).
 
-## 👥 Integrantes
+##  Integrantes
 - Gabriel Mazzotti
 - Isabella Mindof
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 - ├── treinar_modelo.py # Script para treinar o modelo
 - ├── reconhecer_digito.py # Script para testar o reconhecimento
 - ├── modelo_digitos.h5 # Modelo treinado pronto para uso
 
-## 🧠 Funcionamento do Código
+##  Funcionamento do Código
 
 ### `treinar_modelo.py`
 Este script realiza:
@@ -32,7 +32,7 @@ Este script:
  
   ---
 
-## ▶️ Como Executar
+##  Como Executar
 
 ### 🔧 Requisitos
 
@@ -41,7 +41,7 @@ Este script:
 - NumPy
 - Matplotlib (para visualizar a imagem)
 
-### 📦 Instalar dependências
+### Instalar dependências
 
 ```bash
 pip install tensorflow numpy matplotlib
